@@ -1,0 +1,26 @@
+{
+  "name": "IDEA-BOARD",
+  "version": "1.0.0",
+  "description": "practicing react express mongoDB full stack app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djxshin/IDEA-BOARD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djxshin/IDEA-BOARD/issues"
+  },
+  "homepage": "https://github.com/djxshin/IDEA-BOARD#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.6.10"
+  }
+}
